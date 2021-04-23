@@ -1,2 +1,3 @@
 ,Time,State,Confirmed,Recovered,Deaths,Active,New Cases
-0,2021-04-22 22:52:22,Chandigarh,36404,31704,427,4273,NULL
+0,2021-04-22 22:52:22,Chandigarh,36404,31704,427,4273,
+1,2021-04-23 20:33:03,Chandigarh,37232,32180,430,4622,828.0
