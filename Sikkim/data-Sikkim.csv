@@ -1,2 +1,3 @@
 ,Time,State,Confirmed,Recovered,Deaths,Active,New Cases
-0,2021-04-22 22:52:42,Sikkim,6846,6023,136,536,NULL
+0,2021-04-22 22:52:42,Sikkim,6846,6023,136,536,
+1,2021-04-23 08:31:58,Sikkim,6970,6041,137,641,124.0
