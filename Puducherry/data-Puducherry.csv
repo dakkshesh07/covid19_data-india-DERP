@@ -1,2 +1,3 @@
 ,Time,State,Confirmed,Recovered,Deaths,Active,New Cases
-0,2021-04-22 22:52:10,Puducherry,50580,43931,726,5923,NULL
+0,2021-04-22 22:52:10,Puducherry,50580,43931,726,5923,
+1,2021-04-23 12:47:54,Puducherry,51372,44314,728,6330,792.0
