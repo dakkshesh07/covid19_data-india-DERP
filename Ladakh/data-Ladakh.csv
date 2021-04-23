@@ -1,2 +1,3 @@
 ,Time,State,Confirmed,Recovered,Deaths,Active,New Cases
-0,2021-04-22 22:52:38,Ladakh,12739,10630,134,1975,NULL
+0,2021-04-22 22:52:38,Ladakh,12739,10630,134,1975,
+1,2021-04-23 09:51:48,Ladakh,12937,10761,135,2041,198.0
