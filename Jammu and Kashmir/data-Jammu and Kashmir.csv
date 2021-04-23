@@ -1,2 +1,3 @@
 ,Time,State,Confirmed,Recovered,Deaths,Active,New Cases
-0,2021-04-22 22:51:49,Jammu and Kashmir,154407,136221,2092,16094,NULL
+0,2021-04-22 22:51:49,Jammu and Kashmir,154407,136221,2092,16094,
+1,2021-04-23 19:43:07,Jammu and Kashmir,156344,137240,2111,16993,1937.0
