@@ -1,2 +1,3 @@
 ,Time,State,Confirmed,Recovered,Deaths,Active,New Cases
-0,2021-04-22 22:52:18,Manipur,30047,29153,381,513,NULL
+0,2021-04-22 22:52:18,Manipur,30047,29153,381,513,
+1,2021-04-24 00:08:24,Manipur,30151,29180,381,590,104.0
