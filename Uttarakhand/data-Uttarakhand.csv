@@ -1,2 +1,3 @@
 ,Time,State,Confirmed,Recovered,Deaths,Active,New Cases
-0,2021-04-22 22:51:57,Uttarakhand,138010,106271,1972,26970,NULL
+0,2021-04-22 22:51:57,Uttarakhand,138010,106271,1972,26970,
+1,2021-04-23 21:15:17,Uttarakhand,142349,107450,2021,29949,4339.0
