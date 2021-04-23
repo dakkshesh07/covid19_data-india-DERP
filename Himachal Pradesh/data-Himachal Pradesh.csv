@@ -1,2 +1,3 @@
 ,Time,State,Confirmed,Recovered,Deaths,Active,New Cases
-0,2021-04-22 22:52:01,Himachal Pradesh,82876,69747,1241,11859,NULL
+0,2021-04-22 22:52:01,Himachal Pradesh,82876,69747,1241,11859,
+1,2021-04-23 21:15:21,Himachal Pradesh,84065,70519,1267,12246,1189.0
